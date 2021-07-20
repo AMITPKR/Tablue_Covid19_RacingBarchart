@@ -2,7 +2,8 @@
 I am basically created a moving chart which shows the covid cases in top 20 country with different timeline.
 
 ## Covid 19 cases world wide upto July 2021
-![image](https://user-images.githubusercontent.com/70443251/126267545-17c49560-a65c-41e0-9907-fc5e5f81a3f7.png)
+![image](https://user-images.githubusercontent.com/70443251/126268005-00b0c88f-d628-45d4-b619-fc4adf62a99c.png)
+
 
 ## covid 19 deaths world wide UPTO july 2021
 ![image](https://user-images.githubusercontent.com/70443251/126267764-02726fcc-0e37-4645-be16-0b0596f3fdc0.png)
