@@ -10,7 +10,7 @@ I am basically created a moving chart which shows the covid cases in top 20 coun
 ![image](https://user-images.githubusercontent.com/70443251/126267764-02726fcc-0e37-4645-be16-0b0596f3fdc0.png)
 
 ## Cases vs death
-![image](https://user-images.githubusercontent.com/70443251/126267837-42cc075d-1d22-4c39-ac47-766d7d63d5b2.png)  ![image](https://user-images.githubusercontent.com/70443251/126267902-bb2f8bd0-8a61-4bce-b642-0675691f0f0b.png)
+![image](https://user-images.githubusercontent.com/70443251/126267837-42cc075d-1d22-4c39-ac47-766d7d63d5b2.png) ![image](https://user-images.githubusercontent.com/70443251/126267902-bb2f8bd0-8a61-4bce-b642-0675691f0f0b.png)
 
 
 
